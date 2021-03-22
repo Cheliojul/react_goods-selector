@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,UACE,wBAAyB","file":"main.11135339.chunk.css","sourcesContent":["\n.selected {\n  background-color: #fff000;\n}\n\n.button {\n  // display: none;\n}\n"]}
